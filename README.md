@@ -1,5 +1,10 @@
 # Gapminder Data Practice
 
+### Used Packages
+- gapminder
+- dplyr
+- ggplot2
+
 ### Executed Analysss 
 - Yr 1952 GDP per capita vs life expectancy for each continent
 - Yr 2007 GDP per capita vs life expectancy for each continent with additional visual features
